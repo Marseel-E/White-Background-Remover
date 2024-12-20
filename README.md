@@ -18,7 +18,7 @@
 ## Setup Guide
 1. **Python Version**:
 Ensure Python 3.8 or later is installed on your system. [Download Python](https://www.python.org/downloads/)
-2. **Dependencies**:
+2. **Install Dependencies**:
 Install the required libraries using pip:
 ```bash
 python3 -m pip install -r requirements.txt
