@@ -24,7 +24,6 @@ python3 -m pip install -r requirements.txt
 3. **Clone the Repository**:
 ```bash
 git clone https://github.com/Marseel-E/White-Background-Remover.git
-cd White-Background-Remover
 ```
 4. **Verify GPU Support**: (optional)
 To ensure GPU acceleration is available:
