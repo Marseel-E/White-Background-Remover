@@ -31,7 +31,7 @@ To ensure GPU acceleration is available:
   - for MacOS (Apple Silicon), ensure Metal Performance Shaders (MPS) is enabled.
 5. **Run the application**:
 ```bash
-python3 -m White-Background-Remover
+python3 White-Background-Remover
 ```
 
 ### How to Use
