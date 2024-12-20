@@ -1,5 +1,5 @@
 # White Background Remover
-
+*This program does not use AI, which is ironic because AI was utilized in creating it lol.*
 ## Description
 **White Background Remover** is a powerful and user-friendly desktop application designed to process images by removing white or white-like backgrounds and splitting them into distinct grayscale intensity layers. It supports batch processing, real-time previews, and GPU acceleration to ensure fast and efficient performance. The application is built to run seamlessly on Windows, macOS, and Linux.
 
