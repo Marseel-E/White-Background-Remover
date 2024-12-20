@@ -3,6 +3,8 @@
 ## Description
 **White Background Remover** is a powerful and user-friendly desktop application designed to process images by removing white or white-like backgrounds and splitting them into distinct grayscale intensity layers. It supports batch processing, real-time previews, and GPU acceleration to ensure fast and efficient performance. The application is built to run seamlessly on Windows, macOS, and Linux.
 
+![App Screenshot]([link-to-screenshot.png](https://github.com/Marseel-E/White-Background-Remover/blob/main/Preview.png))
+
 # Features
 - **Layer Splitting**: Divide an image into multiple layers based on grayscale intensity.
 - **Adjustable Parameters**: Customize the strength, number of layers, and black factor for fine-tuned results.
